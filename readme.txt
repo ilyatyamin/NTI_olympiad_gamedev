@@ -1,1 +1,1 @@
-
+The game in the genre of city-building simulator was developed within the framework of the finals of the Olympiad of the National Technology Initiative "Game Development" in 72 hours. The game was developed in Unity using the C# programming language. The models were created in Blender in the Low-Poly style.
